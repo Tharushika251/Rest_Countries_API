@@ -1,5 +1,4 @@
 Project: Development of a React Frontend Application Using REST Countries API
-URL of the hosted application: https://Tharushika251.github.io/Rest-Countries-API
 
 # Country Explorer - React Application
 
